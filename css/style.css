@@ -476,7 +476,7 @@ table {
 	margin:0;
 	padding:0;
 	opacity:0.5;
-	color: #E04343;
+	color: #98c7f6;
 	letter-spacing: 18px;
 	line-height: 50px;
 	text-transform: uppercase;
@@ -568,7 +568,7 @@ h1.arrow {
 	font-weight: bold;
 }
 h1.arrow span {
-    color: #E04343;
+    color: #98c7f6;
 }
 /* ==========================================================================About========================================================================== */
 .about-image {
@@ -579,11 +579,11 @@ h1.arrow span {
 	background-size:cover;
 }
 .color-bg {
-	background: #E04343;
+	background: #98c7f6;
 }
 
 .color-bg a {
-    color: #FFE800;
+    color: #67ad8f;
 }
 .color-bg h6, .color-bg p {
     color: white;
@@ -597,7 +597,7 @@ h1.arrow span {
 }
 .color-bg .weight-outline-btn:hover {
   background: #FFF;
-  color: #E04343;
+  color: #98c7f6;
   border-color: rgba(0, 0, 0, 0);
 }
 .about-text {
@@ -609,7 +609,7 @@ h1.arrow span {
 	color: #8C8C8C;
 }
 .color-bg h1.arrow span {
-    color: #FFE800;
+    color: #67ad8f;
 }
 .color-bg h1.arrow {
     color: #FFF;
@@ -633,12 +633,12 @@ h1.arrow span {
 	margin-bottom:40px;
 	-webkit-transition:all .3s ease-out;
 	transition:all .3s ease-out;
-	border: 1px solid #E04343;
-	color: #E04343;
+	border: 1px solid #98c7f6;
+	color: #98c7f6;
 }
 .services .item:hover .icon {
-	background: #E04343;
-	border: 1px solid #E04343;
+	background: #98c7f6;
+	border: 1px solid #98c7f6;
 }
 .services .item [class*=fa] {
 	-webkit-transition:all .3s ease-out;
@@ -842,7 +842,7 @@ img.grayscale:hover {
 }
 .subscribe input[type=text] {
 	background-color:rgba(255,255,255,0.1);
-	border: solid 1px #FFE800;
+	border: solid 1px #67ad8f;
 	padding:20px;
 	width:30%;
 	color:#808080;
@@ -853,7 +853,7 @@ img.grayscale:hover {
 }
 .subscribe input[type=submit] {
 	background: #FFE800;
-	border: solid 1px #FFE800;
+	border: solid 1px #67ad8f;
 	padding:20px;
 	color: #E04343;
 	text-transform:uppercase;
