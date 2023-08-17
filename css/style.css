@@ -25,7 +25,7 @@
 	Global Styles
 ========================================================================== */
 a {
-	color:#98c7f6;
+	color:#9B3505;
 	-webkit-transition:all 0.5s;
 	-moz-transition:all 0.5s;
 	-o-transition:all 0.5s;
@@ -293,9 +293,9 @@ table {
 }
 .dark-box {
 	background: #F3F5F8;
-	-webkit-box-shadow: 0px 3px 0px 0px #98c7f6;
-	-moz-box-shadow: 0px 3px 0px 0px #98c7f6;
-	box-shadow: 0px 3px 0px 0px #98c7f6;
+	-webkit-box-shadow: 0px 3px 0px 0px #9B3505;
+	-moz-box-shadow: 0px 3px 0px 0px #9B3505;
+	box-shadow: 0px 3px 0px 0px #9B3505;
 	padding:20px 0;
 }
 .dark-box:hover,.dark-box:focus {
@@ -476,7 +476,7 @@ table {
 	margin:0;
 	padding:0;
 	opacity:0.5;
-	color: #98c7f6;
+	color: #9B3505;
 	letter-spacing: 18px;
 	line-height: 50px;
 	text-transform: uppercase;
@@ -568,7 +568,7 @@ h1.arrow {
 	font-weight: bold;
 }
 h1.arrow span {
-    color: #98c7f6;
+    color: #9B3505;
 }
 /* ==========================================================================About========================================================================== */
 .about-image {
@@ -579,7 +579,7 @@ h1.arrow span {
 	background-size:cover;
 }
 .color-bg {
-	background: #98c7f6;
+	background: #9B3505;
 }
 
 .color-bg a {
@@ -597,7 +597,7 @@ h1.arrow span {
 }
 .color-bg .weight-outline-btn:hover {
   background: #FFF;
-  color: #98c7f6;
+  color: #9B3505;
   border-color: rgba(0, 0, 0, 0);
 }
 .about-text {
@@ -633,12 +633,12 @@ h1.arrow span {
 	margin-bottom:40px;
 	-webkit-transition:all .3s ease-out;
 	transition:all .3s ease-out;
-	border: 1px solid #98c7f6;
-	color: #98c7f6;
+	border: 1px solid #9B3505;
+	color: #9B3505;
 }
 .services .item:hover .icon {
-	background: #98c7f6;
-	border: 1px solid #98c7f6;
+	background: ##9B3505;
+	border: 1px solid #9B3505;
 }
 .services .item [class*=fa] {
 	-webkit-transition:all .3s ease-out;
@@ -855,7 +855,7 @@ img.grayscale:hover {
 	background: #FFE800;
 	border: solid 1px #67ad8f;
 	padding:20px;
-	color: #E04343;
+	color: #9B3505;
 	text-transform:uppercase;
 	letter-spacing:1px;
 	transition:all 0.5s ease;
@@ -866,11 +866,11 @@ img.grayscale:hover {
 .subscribe input[type=submit]:hover {
 	background: rgba(255, 232, 0, 0.9);
 	border: solid 1px #FFE800;
-	color: #E04343;
+	color: #9B3505;
 }
 /* ==========================================================================CTA========================================================================== */
 .spacer-cta {
-	background-color: #E04343;
+	background-color: #9B3505;
 	padding:70px 0;
 }
 .outline-btn {
@@ -884,7 +884,7 @@ img.grayscale:hover {
 }
 .outline-btn:hover,.outline-btn:focus {
 	color: #E04343;
-	border: solid 1px #E04343;
+	border: solid 1px #9B3505;
 	background: #FFE801;
 }
 .weight-outline-btn {
@@ -919,7 +919,7 @@ ul.social-buttons li:last-child {
 .social-btn {
 	width:40px;
 	height:40px;
-	background: #E04343;
+	background: #9B3505;
 	display:inline-block;
 	color:#fff;
 	font-size:17px;
@@ -928,7 +928,7 @@ ul.social-buttons li:last-child {
 }
 .social-btn:hover,.social-btn:focus {
 	background: rgba(255, 232, 0, 1);
-	color: #E04343;
+	color: #9B3505;
 }
 .social {
 	margin-top: 25px
@@ -940,7 +940,7 @@ ul.social-buttons li:last-child {
 	background: rgba(255, 232, 1, 0.9);
 	display:block;
 	margin:0 auto;
-	color: #E04343;
+	color: #9B3505;
 	font-size:18px;
 	line-height:52px;
 	text-align:center;
@@ -1007,7 +1007,7 @@ ul.social-buttons li:last-child {
 }
 
 .btn-send{
-	background:#E04343;
+	background:#9B3505;
 	color: white;
 	transition: all 0.4s;
 	border-radius: 0;
@@ -1016,7 +1016,7 @@ ul.social-buttons li:last-child {
 
 .btn-send:hover{
 	background: #FFE800;
-	color: #E04343
+	color: #9B3505
 }
 
 button,button:focus,button:hover,button:active {
@@ -1075,8 +1075,8 @@ ul.slides li {
 	font-weight: bold;
 }
 .flex-control-paging li a.flex-active {
-    background: #E04343;
-    border-color: #E04343;
+    background: #9B3505;
+    border-color: #9B3505;
 }
 
 .color-bg .flex-control-paging li a{
