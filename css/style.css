@@ -329,7 +329,7 @@ table {
 	outline:none!important;
 }
 .menu-wrap a:hover,.menu-wrap a:focus {
-	color: #98c7f6;
+	color: #9B3505;
 }
 .content-wrap {
 	overflow-y:scroll;
@@ -369,7 +369,7 @@ table {
 	right:0.5em;
 	bottom:0.5em;
 	left:0.5em;
-	background: linear-gradient(#E04343 20%,rgba(0, 0, 0, 0) 20%,rgba(0, 0, 0, 0) 40%,#E04343 40%,#E04343 60%,rgba(0, 0, 0, 0) 60%,rgba(0, 0, 0, 0) 80%,#E04343 80%);
+	background: linear-gradient(#9B3505 20%,rgba(0, 0, 0, 0) 20%,rgba(0, 0, 0, 0) 40%,#9B3505 40%,#9B3505 60%,rgba(0, 0, 0, 0) 60%,rgba(0, 0, 0, 0) 80%,#9B3505 80%);
 	content:'';
 }
 .menu-button:hover {
@@ -424,7 +424,7 @@ table {
 	transform:translate3d(0,0,0);
 	-webkit-transition-delay:0s;
 	transition-delay:0s;
-	border-bottom: 1px solid #E04343;
+	border-bottom: 1px solid #9B3505;
 }
 .show-menu .icon-list a {
 	opacity:1;
@@ -852,7 +852,7 @@ img.grayscale:hover {
     outline: none;
 }
 .subscribe input[type=submit] {
-	background: #FFE800;
+	background: #67ad8f;
 	border: solid 1px #67ad8f;
 	padding:20px;
 	color: #9B3505;
@@ -865,7 +865,7 @@ img.grayscale:hover {
 }
 .subscribe input[type=submit]:hover {
 	background: rgba(255, 232, 0, 0.9);
-	border: solid 1px #FFE800;
+	border: solid 1px #67ad8f;
 	color: #9B3505;
 }
 /* ==========================================================================CTA========================================================================== */
@@ -877,7 +877,7 @@ img.grayscale:hover {
 	display:inline-block;
 	padding:25px 40px;
 	color: #FFE801;
-	border: solid 1px #FFE801;
+	border: solid 1px #67ad8f;
 	text-transform:uppercase;
 	font-weight:bold;
 	letter-spacing:1px;
@@ -953,7 +953,7 @@ ul.social-buttons li:last-child {
 }
 .up-btn:hover,up-btn:focus {
 	color: black;
-	background: #FFE800;
+	background: #67ad8f;
 }
 .contact-details {
 	margin:70px 0;
@@ -1015,7 +1015,7 @@ ul.social-buttons li:last-child {
 }
 
 .btn-send:hover{
-	background: #FFE800;
+	background: #67ad8f;
 	color: #9B3505
 }
 
@@ -1085,8 +1085,8 @@ ul.slides li {
 }
 
 .color-bg .flex-control-paging li a.flex-active {
-    background: #FFE800;
-    border-color: #FFE800;
+    background: #67ad8f;
+    border-color: #67ad8f;
 }
 /* ==========================================================================Waypoints========================================================================== */
 .wp1,.wp2,.wp3,.wp4,.wp5,.wp6 {
