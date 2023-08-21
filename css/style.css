@@ -876,7 +876,7 @@ img.grayscale:hover {
 .outline-btn {
 	display:inline-block;
 	padding:25px 40px;
-	color: #FFE801;
+	color: #e9a5e5;
 	border: solid 1px #6E0B68;
 	text-transform:uppercase;
 	font-weight:bold;
@@ -885,7 +885,7 @@ img.grayscale:hover {
 .outline-btn:hover,.outline-btn:focus {
 	color: #E04343;
 	border: solid 1px #6E0B68;
-	background: #FFE801;
+	background: #e9a5e5;
 }
 .weight-outline-btn {
 	display:inline-block;
